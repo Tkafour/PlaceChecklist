@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PlaceChecklist</string>
+    <string name="enter_string">You are close to </string>
+    <string name="touch_to_relaunch">Touch to relaunch</string>
+    <string name="loading_text">\"Loading...\"</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="add_a_place">Add a Place</string>
+    <string name="add_a_task">Add a Task</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="add_button">Add</string>
+    <string name="dialog_add_task">Add Task</string>
+    <string name="all_checked">All Checked</string>
+    <string name="delete_task">Delete Task</string>
+</resources>
